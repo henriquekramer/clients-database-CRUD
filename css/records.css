@@ -27,7 +27,7 @@
   background: var(--secundary-color);
 }
 
-@media (max-width: 480px) {
+@media (max-width: 750px) {
   .records{
     border-spacing: 5px;
   }
