@@ -13,7 +13,7 @@ https://clients-database-crud.netlify.app/
 
 ## 💻 Projeto
 
-O projeto desenvolvido baseado no material do Prof. Fernando Leonid. O intuito do projeto é fazer uma página em que o usuário possa cadastrar clientes, editar suas informações, deletar registros (aplicação do CRUD). As transições ficam salvas no navegador do usuário (local storage).
+O projeto foi desenvolvido baseado no material do Prof. Fernando Leonid. O objetivo foi fazer uma página em que o usuário possa cadastrar clientes, ler seus dados, editar suas informações, deletar registros (aplicação do CRUD). As transições ficam salvas no navegador do usuário (local storage).
 
 ## 🚀 Tecnologias
 
