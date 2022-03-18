@@ -5,10 +5,9 @@
 Acesse em:
 https://clients-database-crud.netlify.app/
 
-<h1>Desktop</h1>
+<h2>Desktop & Mobile</h2>
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/97106134/155730145-da335483-4550-463b-8fde-b16a6bc400fe.JPG" width="100%">
-  <img alt="" src="https://user-images.githubusercontent.com/97106134/155730213-a70439dd-6942-4743-830f-16bd9c16d648.JPG" width="100%">
+  <img alt="" src="https://user-images.githubusercontent.com/97106134/159054995-21dc1ce4-f58d-421b-9566-3d2aa55eae98.png" width="100%">
 </p>
 
 ## 💻 Projeto
